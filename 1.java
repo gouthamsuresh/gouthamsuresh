@@ -1,3 +1,1 @@
-This First Program
-hi
-How ru
+Hi This is my first program
